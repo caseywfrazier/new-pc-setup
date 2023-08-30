@@ -24,6 +24,9 @@
    >`winget install powershell --source winget`
 
 1. dl/install [nerdfont](https://github.com/ryanoasis/nerd-fonts/releases)
+   - CascadiaCode.zip
+   - CascaydiaCoveNerdFont-Regular
+   - Terminal: Settings -> Profiles -> Defaults -> Font face
 
 1. install ohmyposh
    >`Install-Module oh-my-posh -Scope CurrentUser`
