@@ -102,6 +102,8 @@ Others:
 ---
 1. custom ohmyposh settings
    - customize the omp config file
+        - https://ohmyposh.dev/docs/installation/customize
+        - `oh-my-posh init pwsh --config 'C:/Users/userName/omp.json' | Invoke-Expression`
         - can use [this gist](https://gist.github.com/shanselman/1f69b28bfcc4f7716e49eb5bb34d7b2c?WT.mc_id=-blog-scottha) as a reference
 1. argument completers, etc
    - copy from this [github gist](https://gist.github.com/shanselman/25f5550ad186189e0e68916c6d7f44c3)
